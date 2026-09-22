@@ -26,10 +26,8 @@ a project demonstrating my approach in building a social media presence from the
 a collection of different types of content created to promote products or educate the audience about the service. Including a price list, email marketing campaign and educational content.
 
 
-
 3. Carousel
 a part 2 of content & creatives, focusing on multiple slide content, a carousel usually shared on Instagram, Facebook or LinkedIn.
-
 
 4. Analytics
 this section contains analytics from brands I have worked with. I use them to understand what's working , identity areas of improvement and make more informed content decisions. By reviewing metrics such as reach,engagement,shares,likes,followers etc. I have better understanding on how to better advise businesses on further marketing goals.
