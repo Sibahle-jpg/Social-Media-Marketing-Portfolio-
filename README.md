@@ -9,11 +9,17 @@ WHAT'S INSIDE?
 a project demonstrating my approach in building a social media presence from the ground up or improve it to meet a business social media goals..it could be more reach, revenue, engagement or virality. 
 
 ▪︎Brand analysis: first step to understand the brand, value and it's personality and needs.
+
 ▪︎Competitor analysis: looking at competitors to identify opportunities, trends, differentiation opportunities. 
+
 ▪︎Brand identity and visual style: establishing a consistent look and feel for the brand across social media. 
+
 ▪︎Target audience: identifying who the brand is speaking to and what matters to them.
+
 ▪︎Content pillars & strategy: creating clear content themes to guide the brand's posts, when & why.
+
 ▪︎Content calendar: keep social posts consistent across all social media handles.
+
 ▪︎Analytics: the important analytics of this brand.
 
 2.Content & creatives
