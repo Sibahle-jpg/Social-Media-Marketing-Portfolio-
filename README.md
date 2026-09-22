@@ -4,7 +4,6 @@ Hi,I'm Sibahle!🙂
 a social media marketer showcasing projects demonstrating how I approach social media. From strategy, community management, video editing, graphic design,content creation, scheduling to analtics etc.
 
 WHAT'S INSIDE?
-
 1. Social media strategy
 a project demonstrating my approach in building a social media presence from the ground up or improve it to meet a business social media goals..it could be more reach, revenue, engagement or virality. 
 
@@ -24,6 +23,7 @@ a project demonstrating my approach in building a social media presence from the
 
 2.Content & creatives
 a collection of different types of content created to promote products or educate the audience about the service. Including a price list, email marketing campaign and educational content.
+
 
 3. Carousel
 a part 2 of content & creatives, focusing on multiple slide content, a carousel usually shared on Instagram, Facebook or LinkedIn.
